@@ -17,7 +17,7 @@ Related Repository
 ------------------
 WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
 WEB API - https://github.com/JangBomi/Object_Detection_API <br>
-Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite
+Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite (https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE)
 
 Team Member
 -----------
@@ -25,7 +25,3 @@ Team Member
 이경민 (jully0425@ewhain.net) 
 장보미 (bonita99@ewhain.net)
 남궁지윤 (jyoon186@naver.com) 
-
-
-시연영상
-https://www.youtube.com/channel/UCTqPF19PX4EohO05RuF3OLg
