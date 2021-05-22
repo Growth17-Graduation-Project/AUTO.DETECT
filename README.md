@@ -17,7 +17,8 @@ Related Repository
 ------------------
 WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
 WEB API - https://github.com/JangBomi/Object_Detection_API <br>
-Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite
+Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite <br>
+                                              - https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE
 
 Team Member
 -----------
