@@ -24,3 +24,5 @@ Team Member
 이경민 (jully0425@ewhain.net) 
 장보미 (bonita99@ewhain.net)
 남궁지윤 (jyoon186@naver.com) 
+
+https://github.com/Growth17-Graduation-Project/AUTO.DETECT/issues/1#issue-907848840
