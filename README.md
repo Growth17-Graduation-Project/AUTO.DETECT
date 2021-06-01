@@ -13,6 +13,10 @@ WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
 WEB API - https://github.com/JangBomi/Object_Detection_API <br>
 Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite (https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE)
 
+Video address
+------------------
+Youtube URL https://www.youtube.com/channel/UCTqPF19PX4EohO05RuF3OLg
+
 Reference
 ---------
 yolo 논문 https://arxiv.org/pdf/1506.02640.pdf   
