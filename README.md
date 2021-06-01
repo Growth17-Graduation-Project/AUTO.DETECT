@@ -1,6 +1,11 @@
 # AUTO.DETECT
 A custodian exists at the entrance to detect prohibited items when entering the  library, and if a person detects them, it is difficult and inefficient to identify all people who use prohibited items from entering the library. To this end, an automatic system is built to automatically detect, record,  and warn off prohibited items.
 
+WEB Repository
+------------------
+WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
+WEB API - https://github.com/JangBomi/Object_Detection_API <br>
+Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite (https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE)
 
 Reference
 ---------
@@ -13,15 +18,9 @@ yolo 구조 파악 https://wiserloner.tistory.com/1247
 TestData_1 (BCCD) https://github.com/Shenggan/BCCD_Dataset/tree/master/BCCD   
 TestData_2 (COCO) https://public.roboflow.com/object-detection/microsoft-coco-subset   
 
-Related Repository
-------------------
-WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
-WEB API - https://github.com/JangBomi/Object_Detection_API <br>
-Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite (https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE)
-
 Team Member
 -----------
-양은서 (eunseo1092@ewhain.com) 
+양은서 (eunseo1092@ewhain.net) 
 이경민 (jully0425@ewhain.net) 
 장보미 (bonita99@ewhain.net)
 남궁지윤 (jyoon186@naver.com) 
