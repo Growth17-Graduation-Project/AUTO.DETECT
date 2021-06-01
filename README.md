@@ -7,14 +7,14 @@ A custodian exists at the entrance to detect prohibited items when entering the�
 
 Final Web Page
 -------------------
-Home page
-<img width="659" alt="홈화면" src="https://user-images.githubusercontent.com/55356269/120265940-ec1ecd00-c2db-11eb-97f6-a1a2488b3341.PNG">
+Home page<br>
+<img width="659" alt="홈화면" src="https://user-images.githubusercontent.com/55356269/120265940-ec1ecd00-c2db-11eb-97f6-a1a2488b3341.PNG"><br>
 
-Detection page with user's webcam
-<img width="661" alt="검출 이미지" src="https://user-images.githubusercontent.com/55356269/120265950-ef19bd80-c2db-11eb-96a0-51bf65b814cd.PNG">
+Detection page with user's webcam<br>
+<img width="661" alt="검출 이미지" src="https://user-images.githubusercontent.com/55356269/120265950-ef19bd80-c2db-11eb-96a0-51bf65b814cd.PNG"><br>
 
-Check last Detection results
-<img width="660" alt="과거기록 보기" src="https://user-images.githubusercontent.com/55356269/120265945-ede89080-c2db-11eb-8d1c-3f333b4d5db8.PNG">
+Check last Detection results<br>
+<img width="660" alt="과거기록 보기" src="https://user-images.githubusercontent.com/55356269/120265945-ede89080-c2db-11eb-8d1c-3f333b4d5db8.PNG"><br>
 
 
 
