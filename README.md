@@ -1,6 +1,9 @@
 # AUTO.DETECT
 A custodian exists at the entrance to detect prohibited items when entering the  library, and if a person detects them, it is difficult and inefficient to identify all people who use prohibited items from entering the library. To this end, an automatic system is built to automatically detect, record,  and warn off prohibited items.
 
+[졸업프로젝트-포스터-그로쓰17 FINAL.pdf](https://github.com/Growth17-Graduation-Project/AUTO.DETECT/files/6573289/-.-.17.FINAL.pdf)
+
+
 WEB Repository
 ------------------
 WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
@@ -25,4 +28,4 @@ Team Member
 장보미 (bonita99@ewhain.net)
 남궁지윤 (jyoon186@naver.com) 
 
-https://github.com/Growth17-Graduation-Project/AUTO.DETECT/issues/1#issue-907848840
+
