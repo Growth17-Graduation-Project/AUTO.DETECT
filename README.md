@@ -22,7 +22,7 @@ Check last Detection results<br>
 WEB Repository
 ------------------
 WEB Front - https://github.com/JangBomi/Object_Detection_Front <br>
-WEB API - https://github.com/JangBomi/Object_Detection_API <br>
+WEB API - https://github.com/JangBomi/gp_server <br>
 Convert darknet weights to tensorflow and run - https://github.com/hunglc007/tensorflow-yolov4-tflite (https://github.com/hunglc007/tensorflow-yolov4-tflite/blob/master/LICENSE)
 
 Video address
